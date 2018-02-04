@@ -4,11 +4,12 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head runat="server">
-		<title>Welcome to the Pit of Misery</title>
+		<title>The Pit of Misery</title>
 		 <meta charset='utf-8' />
 
 		<script src="./js/main.js"></script>
 		<link rel="stylesheet" type="text/css" href="./css/main.css" />
+		<link rel="icon" href="./img/favicon.jpg">
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script src="https://www.googletagmanager.com/gtag/js?id=UA-113535969-1"></script>
